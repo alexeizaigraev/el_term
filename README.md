@@ -1,8 +1,8 @@
 <html>
 <body>
-
-<h2>Терминалы</h2>
 <p><a href="https://alexeizaigraev.github.io/el_site/">Отделения</a></p>
+<h4>Терминалы</h4>
+
 <table style="width:100%">
   <tr>
     <th>Отделение</th>
