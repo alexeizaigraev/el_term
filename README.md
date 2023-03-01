@@ -49,29 +49,29 @@
 <tr><td>0020001</td><td>00200017</td><td>Екселліо FP-700</td><td>3000253807</td><td>КС00002042</td><td>Заблокований</td><td>eps</td></tr>
 <tr><td>0020001</td><td>00200018</td><td>Екселліо FP-700</td><td>3000397081</td><td>КС00002068</td><td>Заблокований</td><td>eps</td></tr>
 <tr><td>0020001</td><td>00200019</td><td>Екселліо FP-700</td><td>3000448379</td><td>КС00011872</td><td>Заблокований</td><td>eps</td></tr>
-<tr><td>1010001</td><td>10100011</td><td></td><td></td><td>КС00019061</td><td>Активний</td><td>delivery</td></tr>
+<tr><td>1010001</td><td>10100011</td><td></td><td></td><td>КС00019061</td><td></td><td>delivery</td></tr>
 <tr><td>1010001</td><td>10100012</td><td>ПРРО</td><td>4000453650</td><td></td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010001</td><td>10100013</td><td>Екселліо FP-700</td><td>3000256537</td><td>КС00002392</td><td>Активний</td><td>eps</td></tr>
-<tr><td>1010002</td><td>10100021</td><td></td><td></td><td>КС00018990</td><td>Активний</td><td>delivery</td></tr>
+<tr><td>1010002</td><td>10100021</td><td></td><td></td><td>КС00018990</td><td></td><td>delivery</td></tr>
 <tr><td>1010002</td><td>10100022</td><td>ПРРО</td><td>4000453634</td><td></td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010002</td><td>10100023</td><td>Екселліо FP-700</td><td>3000256539</td><td>КС00002390</td><td>Активний</td><td>eps</td></tr>
-<tr><td>1010003</td><td>10100031</td><td></td><td></td><td>КС00018996</td><td>Активний</td><td>delivery</td></tr>
+<tr><td>1010003</td><td>10100031</td><td></td><td></td><td>КС00018996</td><td></td><td>delivery</td></tr>
 <tr><td>1010003</td><td>10100032</td><td>ПРРО</td><td>4000453639</td><td></td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010003</td><td>10100033</td><td>Екселліо FP-700</td><td>3000256540</td><td>КС00002389</td><td>Активний</td><td>eps</td></tr>
-<tr><td>1010004</td><td>10100041</td><td></td><td></td><td>КС00019092</td><td>Активний</td><td>delivery</td></tr>
+<tr><td>1010004</td><td>10100041</td><td></td><td></td><td>КС00019092</td><td></td><td>delivery</td></tr>
 <tr><td>1010004</td><td>10100042</td><td>ПРРО</td><td>4000453643</td><td></td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010004</td><td>10100043</td><td>Екселліо FP-700</td><td>3000256541</td><td>КС00002387</td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010005</td><td>10100051</td><td>Екселліо FP-700</td><td>3000256542</td><td>КС00002391</td><td>Заблокований</td><td>eps</td></tr>
-<tr><td>1010006</td><td>10100061</td><td></td><td></td><td>КС00019065</td><td>Активний</td><td>delivery</td></tr>
+<tr><td>1010006</td><td>10100061</td><td></td><td></td><td>КС00019065</td><td></td><td>delivery</td></tr>
 <tr><td>1010006</td><td>10100062</td><td>ПРРО</td><td>4000453646</td><td></td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010006</td><td>10100063</td><td>Екселліо FP-700</td><td>3000256544</td><td>КС00002388</td><td>Активний</td><td>eps</td></tr>
-<tr><td>1010007</td><td>10100071</td><td></td><td></td><td>КС00019063</td><td>Активний</td><td>delivery</td></tr>
+<tr><td>1010007</td><td>10100071</td><td></td><td></td><td>КС00019063</td><td></td><td>delivery</td></tr>
 <tr><td>1010007</td><td>10100072</td><td>ПРРО</td><td>4000453640</td><td></td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010007</td><td>10100073</td><td>Екселліо FP-700</td><td>3000256546</td><td>КС00002334</td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010008</td><td>10100081</td><td>Екселліо FP-700</td><td>3000256551</td><td>КС00002329</td><td>Заблокований</td><td>eps</td></tr>
 <tr><td>1010009</td><td>10100091</td><td>Екселліо FPU-550ES</td><td>3000857020</td><td>КМ00007132</td><td>Заблокований</td><td>delivery</td></tr>
 <tr><td>1010010</td><td>10100101</td><td>Екселліо FP-700</td><td>3000256554</td><td>КС00002332</td><td>Заблокований</td><td>eps</td></tr>
-<tr><td>1010011</td><td>10100111</td><td></td><td></td><td>КС00019455</td><td>Активний</td><td>delivery</td></tr>
+<tr><td>1010011</td><td>10100111</td><td></td><td></td><td>КС00019455</td><td></td><td>delivery</td></tr>
 <tr><td>1010011</td><td>10100112</td><td>ПРРО</td><td>4000453641</td><td></td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010011</td><td>10100113</td><td>Екселліо FP-700</td><td>3000256555</td><td>КС00002333</td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010012</td><td>10100121</td><td>Екселліо FP-700</td><td>3000256556</td><td>КС00002379</td><td>Активний</td><td>eps</td></tr>
@@ -82,11 +82,11 @@
 <tr><td>1010014</td><td>10100142</td><td>ПРРО</td><td>4000453669</td><td></td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010015</td><td>10100151</td><td>Екселліо FP-700</td><td>3000256559</td><td>КС00002459</td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010015</td><td>10100152</td><td>ПРРО</td><td>4000453651</td><td></td><td>Активний</td><td>eps</td></tr>
-<tr><td>1010016</td><td>10100161</td><td></td><td></td><td>КС00018987</td><td>Активний</td><td>delivery</td></tr>
+<tr><td>1010016</td><td>10100161</td><td></td><td></td><td>КС00018987</td><td></td><td>delivery</td></tr>
 <tr><td>1010016</td><td>10100162</td><td>ПРРО</td><td>4000453636</td><td></td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010016</td><td>10100163</td><td>Екселліо FP-700</td><td>3000256560</td><td>КС00002460</td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010017</td><td>10100171</td><td>Екселліо FP-700</td><td>3000256561</td><td>КС00002461</td><td>Заблокований</td><td>eps</td></tr>
-<tr><td>1010018</td><td>10100181</td><td></td><td></td><td>КС00019213</td><td>Активний</td><td>delivery</td></tr>
+<tr><td>1010018</td><td>10100181</td><td></td><td></td><td>КС00019213</td><td></td><td>delivery</td></tr>
 <tr><td>1010018</td><td>10100182</td><td>ПРРО</td><td>4000451143</td><td></td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010018</td><td>10100183</td><td>Екселліо FP-700</td><td>3000259047</td><td>КС00002484</td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010019</td><td>10100191</td><td>Екселліо FP-700</td><td>3000253827</td><td>КС00002576</td><td>Активний</td><td>eps</td></tr>
@@ -117,13 +117,13 @@
 <tr><td>1010033</td><td>10100332</td><td>ПРРО</td><td>4000453649</td><td></td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010034</td><td>10100341</td><td>Екселліо FP-700</td><td>3000253799</td><td>КС00002578</td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010034</td><td>10100342</td><td>ПРРО</td><td>4000453647</td><td></td><td>Активний</td><td>eps</td></tr>
-<tr><td>1010035</td><td>10100351</td><td></td><td></td><td>КС00019129</td><td>Активний</td><td>delivery</td></tr>
+<tr><td>1010035</td><td>10100351</td><td></td><td></td><td>КС00019129</td><td></td><td>delivery</td></tr>
 <tr><td>1010035</td><td>10100352</td><td>ПРРО</td><td>4000453699</td><td></td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010035</td><td>10100353</td><td>Екселліо FP-700</td><td>3000253824</td><td>КС00002573</td><td>Активний</td><td>eps</td></tr>
-<tr><td>1010036</td><td>10100361</td><td></td><td></td><td>КС00019130</td><td>Активний</td><td>delivery</td></tr>
+<tr><td>1010036</td><td>10100361</td><td></td><td></td><td>КС00019130</td><td></td><td>delivery</td></tr>
 <tr><td>1010036</td><td>10100362</td><td>ПРРО</td><td>4000453701</td><td></td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010036</td><td>10100363</td><td>Екселліо FP-280</td><td>3000286117</td><td>КЛ00000183</td><td>Активний</td><td>eps</td></tr>
-<tr><td>1010037</td><td>10100371</td><td></td><td></td><td>КС00019131</td><td>Активний</td><td>delivery</td></tr>
+<tr><td>1010037</td><td>10100371</td><td></td><td></td><td>КС00019131</td><td></td><td>delivery</td></tr>
 <tr><td>1010037</td><td>10100372</td><td>ПРРО</td><td>4000453698</td><td></td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010037</td><td>10100373</td><td>Екселліо FP-280</td><td>3000286120</td><td>КЛ00000184</td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010038</td><td>10100381</td><td>Екселліо FPU-550ES</td><td>3000782747</td><td>КМ00004763</td><td>Активний</td><td>delivery</td></tr>
@@ -132,7 +132,7 @@
 <tr><td>1010039</td><td>10100392</td><td>ПРРО</td><td>4000453693</td><td></td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010040</td><td>10100401</td><td>Екселліо FP-700</td><td>3000253803</td><td>КС00002386</td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010040</td><td>10100402</td><td>ПРРО</td><td>4000453683</td><td></td><td>Активний</td><td>eps</td></tr>
-<tr><td>1010041</td><td>10100411</td><td></td><td></td><td>КС00019175</td><td>Активний</td><td>delivery</td></tr>
+<tr><td>1010041</td><td>10100411</td><td></td><td></td><td>КС00019175</td><td></td><td>delivery</td></tr>
 <tr><td>1010041</td><td>10100412</td><td>ПРРО</td><td>4000453686</td><td></td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010041</td><td>10100413</td><td>Екселліо FP-700</td><td>3000253826</td><td>КС00002577</td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010042</td><td>10100421</td><td>Екселліо FP-700</td><td>3000253814</td><td>КС00001378</td><td>Заблокований</td><td>eps</td></tr>
@@ -143,7 +143,7 @@
 <tr><td>1010045</td><td>10100451</td><td>Екселліо FPU-550ES</td><td>3000778900</td><td>КМ00006062</td><td>Заблокований</td><td>delivery</td></tr>
 <tr><td>1010046</td><td>10100461</td><td>Екселліо FP-700</td><td>3000253790</td><td>КС00002575</td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010046</td><td>10100462</td><td>ПРРО</td><td>4000453697</td><td></td><td>Активний</td><td>eps</td></tr>
-<tr><td>1010047</td><td>10100471</td><td></td><td></td><td>КС00018944</td><td>Активний</td><td>delivery</td></tr>
+<tr><td>1010047</td><td>10100471</td><td></td><td></td><td>КС00018944</td><td></td><td>delivery</td></tr>
 <tr><td>1010047</td><td>10100472</td><td>ПРРО</td><td>4000453685</td><td></td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010047</td><td>10100473</td><td>Екселліо FP-700</td><td>3000253796</td><td>КС00002382</td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010048</td><td>10100481</td><td>Екселліо FP-700</td><td>3000436372</td><td>КС00002086</td><td>Активний</td><td>eps</td></tr>
@@ -167,7 +167,7 @@
 <tr><td>1010058</td><td>10100582</td><td>ПРРО</td><td>4000453689</td><td></td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010059</td><td>10100591</td><td>Екселліо FP-280</td><td>3000286128</td><td>КЛ00000190</td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010059</td><td>10100592</td><td>ПРРО</td><td>4000453688</td><td></td><td>Активний</td><td>eps</td></tr>
-<tr><td>1010060</td><td>10100601</td><td></td><td></td><td>КС00019185</td><td>Активний</td><td>delivery</td></tr>
+<tr><td>1010060</td><td>10100601</td><td></td><td></td><td>КС00019185</td><td></td><td>delivery</td></tr>
 <tr><td>1010060</td><td>10100602</td><td>ПРРО</td><td>4000453766</td><td></td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010060</td><td>10100603</td><td>Екселліо FP-700</td><td>3000290952</td><td>КС00002357</td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010061</td><td>10100611</td><td>Екселліо FP-700</td><td>3000290953</td><td>КС00002185</td><td>Активний</td><td>eps</td></tr>
@@ -320,7 +320,7 @@
 <tr><td>1010145</td><td>10101451</td><td>Екселліо FPU-550ES</td><td>3000829673</td><td>КМ00006472</td><td>Активний</td><td>delivery</td></tr>
 <tr><td>1010145</td><td>10101452</td><td>ПРРО</td><td>4000454142</td><td></td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010146</td><td>10101461</td><td>Екселліо FP-280</td><td></td><td>KЛ00002549</td><td></td><td>delivery</td></tr>
-<tr><td>1010146</td><td>10101462</td><td>Екселліо FPU-550ES</td><td>3000839851</td><td>КМ00006718</td><td>Активний</td><td>delivery</td></tr>
+<tr><td>1010146</td><td>10101462</td><td>Екселліо FPU-550ES</td><td>3000839851</td><td>КМ00006718</td><td>Заблокований</td><td>delivery</td></tr>
 <tr><td>1010147</td><td>10101471</td><td>Екселліо FP-280</td><td>3000947808</td><td>КЛ00004651</td><td>Заблокований</td><td>delivery</td></tr>
 <tr><td>1010148</td><td>10101481</td><td>Екселліо FPU-550ES</td><td>3000829672</td><td>КМ00005385</td><td>Заблокований</td><td>delivery</td></tr>
 <tr><td>1010149</td><td>10101491</td><td>Екселліо FPU-550ES</td><td>3000829671</td><td>КМ00006528</td><td>Активний</td><td>delivery</td></tr>
@@ -350,7 +350,7 @@
 <tr><td>1010162</td><td>10101622</td><td>ПРРО</td><td>4000454157</td><td></td><td>Активний</td><td>eps</td></tr>
 <tr><td>1010163</td><td>10101631</td><td>Екселліо FPU-550ES</td><td>3000850488</td><td>КМ00006964</td><td>Активний</td><td>delivery</td></tr>
 <tr><td>1010163</td><td>10101632</td><td>ПРРО</td><td>4000454150</td><td></td><td>Активний</td><td>eps</td></tr>
-<tr><td>1010164</td><td>10101641</td><td>Екселліо FP-280</td><td>3001042933</td><td>КЛ00005425</td><td></td><td>delivery</td></tr>
+<tr><td>1010164</td><td>10101641</td><td>Екселліо FP-280</td><td>3001042933</td><td>КЛ00005425</td><td>Активний</td><td>delivery</td></tr>
 <tr><td>1010164</td><td>10101642</td><td>Екселліо FPU-550ES</td><td>3000850491</td><td>КМ00006965</td><td>Заблокований</td><td>delivery</td></tr>
 <tr><td>1010165</td><td>10101651</td><td>Екселліо FPU-550ES</td><td>3000850490</td><td>КМ00006966</td><td>Заблокований</td><td>delivery</td></tr>
 <tr><td>1010166</td><td>10101661</td><td>Екселліо FPU-550ES</td><td>3000850489</td><td>КМ00006967</td><td>Активний</td><td>delivery</td></tr>
@@ -893,7 +893,7 @@
 <tr><td>1330309</td><td>13303091</td><td>Екселліо FP-700</td><td>3000487691</td><td>КС00011730</td><td>Заблокований</td><td>justin</td></tr>
 <tr><td>1330310</td><td>13303101</td><td>Екселліо FP-700</td><td>3000487692</td><td>КС00011731</td><td>Заблокований</td><td>justin</td></tr>
 <tr><td>1330311</td><td>13303111</td><td>Екселліо FP-700</td><td>3000487694</td><td>КС00011732</td><td>Заблокований</td><td>justin</td></tr>
-<tr><td>1330312</td><td>13303121</td><td>Екселліо FP-700</td><td>3000487695</td><td>КС00011733</td><td>Заблокований</td><td>justin</td></tr>
+<tr><td>1330312</td><td>13303121</td><td>Екселліо FP-700</td><td>3000487695</td><td>КС00011733</td><td></td><td>justin</td></tr>
 <tr><td>1330313</td><td>13303131</td><td>Екселліо FP-700</td><td>3000487696</td><td>КС00011734</td><td>Заблокований</td><td>justin</td></tr>
 <tr><td>1330314</td><td>13303141</td><td>Екселліо FP-700</td><td>3000490035</td><td>КС00011741</td><td>Заблокований</td><td>justin</td></tr>
 <tr><td>1330315</td><td>13303151</td><td>Екселліо FP-700</td><td>3000490037</td><td>КС00011742</td><td>Заблокований</td><td>justin</td></tr>
@@ -920,7 +920,7 @@
 <tr><td>1330337</td><td>13303371</td><td>Екселліо FP-700</td><td>3000503063</td><td>КС00011787</td><td>Заблокований</td><td>justin</td></tr>
 <tr><td>1330338</td><td>13303381</td><td>Екселліо FP-700</td><td>3000502994</td><td>КС00011788</td><td>Заблокований</td><td>justin</td></tr>
 <tr><td>1330339</td><td>13303391</td><td>Екселліо FP-700</td><td>3000502982</td><td>КС00011813</td><td>Заблокований</td><td>justin</td></tr>
-<tr><td>1330340</td><td>13303401</td><td>Екселліо FP-700</td><td>3000502966</td><td>КС00011814</td><td>Заблокований</td><td>justin</td></tr>
+<tr><td>1330340</td><td>13303401</td><td>Екселліо FP-700</td><td>3000502966</td><td>КС00011814</td><td></td><td>justin</td></tr>
 <tr><td>1330341</td><td>13303411</td><td>Екселліо FP-700</td><td>3000502940</td><td>КС00011815</td><td>Активний</td><td>justin</td></tr>
 <tr><td>1330342</td><td>13303421</td><td>Екселліо FP-700</td><td>3000503524</td><td>КС00011816</td><td>Заблокований</td><td>justin</td></tr>
 <tr><td>1330343</td><td>13303431</td><td>Екселліо FP-700</td><td>3000504396</td><td>КС00011817</td><td>Заблокований</td><td>justin</td></tr>
@@ -969,7 +969,7 @@
 <tr><td>1330391</td><td>13303911</td><td>Екселліо FP-700</td><td>3000520126</td><td>КС00011894</td><td>Заблокований</td><td>justin</td></tr>
 <tr><td>1330392</td><td>13303921</td><td>Екселліо FP-700</td><td>3000520113</td><td>КС00011895</td><td>Заблокований</td><td>justin</td></tr>
 <tr><td>1330393</td><td>13303931</td><td>Екселліо FP-700</td><td>3000520107</td><td>КС00011896</td><td>Заблокований</td><td>justin</td></tr>
-<tr><td>1330394</td><td>13303941</td><td>Екселліо FP-700</td><td>3000520101</td><td>КС00011897</td><td>Заблокований</td><td>justin</td></tr>
+<tr><td>1330394</td><td>13303941</td><td>Екселліо FP-700</td><td>3000520101</td><td>КС00011897</td><td></td><td>justin</td></tr>
 <tr><td>1330395</td><td>13303951</td><td>Екселліо FP-700</td><td>3000520088</td><td>КС00011898</td><td>Заблокований</td><td>justin</td></tr>
 <tr><td>1330396</td><td>13303961</td><td>Екселліо FP-700</td><td>3000524864</td><td>КС00011900</td><td>Заблокований</td><td>justin</td></tr>
 <tr><td>1330397</td><td>13303971</td><td>Екселліо FP-700</td><td>3000524862</td><td>КС00011901</td><td>Заблокований</td><td>justin</td></tr>
@@ -1181,7 +1181,7 @@
 <tr><td>1700038</td><td>17000381</td><td>Екселліо FPU-550ES</td><td>3000724589</td><td>КМ00005212</td><td>Активний</td><td>sat</td></tr>
 <tr><td>1700039</td><td>17000391</td><td>Екселліо FPU-550ES</td><td>3000728896</td><td>КМ00005229</td><td>Заблокований</td><td>sat</td></tr>
 <tr><td>1700040</td><td>17000401</td><td>Екселліо FPU-550ES</td><td>3000724588</td><td>КМ00005230</td><td>Активний</td><td>sat</td></tr>
-<tr><td>1700041</td><td>17000411</td><td>Екселліо FPU-550ES</td><td>3000728898</td><td>КМ00005232</td><td>Заблокований</td><td>sat</td></tr>
+<tr><td>1700041</td><td>17000411</td><td>Екселліо FPU-550ES</td><td>3000728898</td><td>КМ00005232</td><td>Активний</td><td>sat</td></tr>
 <tr><td>1700042</td><td>17000421</td><td>Екселліо FPU-550ES</td><td>3000728887</td><td>КМ00005234</td><td>Активний</td><td>sat</td></tr>
 <tr><td>1700043</td><td>17000431</td><td>Екселліо FPU-550ES</td><td>3000728901</td><td>КМ00005235</td><td>Заблокований</td><td>sat</td></tr>
 <tr><td>1700044</td><td>17000441</td><td>Екселліо FPU-550ES</td><td>3000729064</td><td>КМ00005236</td><td>Заблокований</td><td>sat</td></tr>
